@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package unique-identifier="BookId" version="2.0" xmlns:opf="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:68b79009-ead4-4e9e-b187-6b242841d40f</dc:identifier>
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns:opf="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:68b79009-ead4-4e9e-b187-6b242841d40f</dc:identifier>
     <dc:language>en</dc:language>
     <dc:title>[Title here]</dc:title>
-    <meta content="0.9.13" name="Sigil version"/>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-10-16</dc:date>
+    <meta content="0.9.13" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2022-10-16</dc:date>
   </metadata>
   <manifest>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Styles/styles.css" id="styles.css" media-type="text/css"/>
-    <item href="Text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-1.xhtml" id="titulo-1.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Fonts/Fontin-SmallCaps.otf" id="Fontin-SmallCaps.otf" media-type="application/vnd.ms-opentype"/>
-    <item href="Text/creditos.xhtml" id="creditos.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Images/cc-88x31.png" id="cc-88x31.png" media-type="image/png"/>
-    <item href="Text/titulo-2.xhtml" id="titulo-2.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-3.xhtml" id="titulo-3.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-4.xhtml" id="titulo-4.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-5.xhtml" id="titulo-5.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-6.xhtml" id="titulo-6.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-7.xhtml" id="titulo-7.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-8.xhtml" id="titulo-8.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-9.xhtml" id="titulo-9.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-10.xhtml" id="titulo-10.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-11.xhtml" id="titulo-11.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-12.xhtml" id="titulo-12.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-13.xhtml" id="titulo-13.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-14.xhtml" id="titulo-14.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-15.xhtml" id="titulo-15.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-16.xhtml" id="titulo-16.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-17.xhtml" id="titulo-17.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-18.xhtml" id="titulo-18.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titulo-19.xhtml" id="titulo-19.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/disposiciones-transitorias.xhtml" id="disposiciones-transitorias.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepage.xhtml" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-1.xhtml" href="Text/titulo-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Fontin-SmallCaps.otf" href="Fonts/Fontin-SmallCaps.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="creditos.xhtml" href="Text/creditos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cc-88x31.png" href="Images/cc-88x31.png" media-type="image/png"/>
+    <item id="titulo-2.xhtml" href="Text/titulo-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-3.xhtml" href="Text/titulo-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-4.xhtml" href="Text/titulo-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-5.xhtml" href="Text/titulo-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-6.xhtml" href="Text/titulo-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-7.xhtml" href="Text/titulo-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-8.xhtml" href="Text/titulo-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-9.xhtml" href="Text/titulo-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-10.xhtml" href="Text/titulo-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-11.xhtml" href="Text/titulo-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-12.xhtml" href="Text/titulo-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-13.xhtml" href="Text/titulo-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-14.xhtml" href="Text/titulo-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-15.xhtml" href="Text/titulo-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-16.xhtml" href="Text/titulo-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-17.xhtml" href="Text/titulo-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-18.xhtml" href="Text/titulo-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo-19.xhtml" href="Text/titulo-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="disposiciones-transitorias.xhtml" href="Text/disposiciones-transitorias.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
