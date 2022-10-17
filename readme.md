@@ -1,4 +1,4 @@
-Proyecto constitución cubana de 1940 en epub.
+Proyecto Constitución cubana de 1940 en epub.
 ---
 
 ## Descripción
