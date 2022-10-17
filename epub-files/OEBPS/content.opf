@@ -20,6 +20,22 @@
     <item href="Text/titulo-2.xhtml" id="titulo-2.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/titulo-3.xhtml" id="titulo-3.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/titulo-4.xhtml" id="titulo-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-5.xhtml" id="titulo-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-6.xhtml" id="titulo-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-7.xhtml" id="titulo-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-8.xhtml" id="titulo-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-9.xhtml" id="titulo-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-10.xhtml" id="titulo-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-11.xhtml" id="titulo-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-12.xhtml" id="titulo-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-13.xhtml" id="titulo-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-14.xhtml" id="titulo-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-15.xhtml" id="titulo-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-16.xhtml" id="titulo-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-17.xhtml" id="titulo-17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-18.xhtml" id="titulo-18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-19.xhtml" id="titulo-19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/disposiciones-transitorias.xhtml" id="disposiciones-transitorias.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -30,5 +46,21 @@
     <itemref idref="titulo-2.xhtml"/>
     <itemref idref="titulo-3.xhtml"/>
     <itemref idref="titulo-4.xhtml"/>
+    <itemref idref="titulo-5.xhtml"/>
+    <itemref idref="titulo-6.xhtml"/>
+    <itemref idref="titulo-7.xhtml"/>
+    <itemref idref="titulo-8.xhtml"/>
+    <itemref idref="titulo-9.xhtml"/>
+    <itemref idref="titulo-10.xhtml"/>
+    <itemref idref="titulo-11.xhtml"/>
+    <itemref idref="titulo-12.xhtml"/>
+    <itemref idref="titulo-13.xhtml"/>
+    <itemref idref="titulo-14.xhtml"/>
+    <itemref idref="titulo-15.xhtml"/>
+    <itemref idref="titulo-16.xhtml"/>
+    <itemref idref="titulo-17.xhtml"/>
+    <itemref idref="titulo-18.xhtml"/>
+    <itemref idref="titulo-19.xhtml"/>
+    <itemref idref="disposiciones-transitorias.xhtml"/>
   </spine>
 </package>
