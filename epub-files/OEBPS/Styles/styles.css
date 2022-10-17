@@ -85,13 +85,14 @@ h3 {
 
 h4 {
     font-family: 'SmallCaps', sans-serif;
-    font-size: 1.2em;
+    font-size: 0em;
     font-weight: bold;
     font-variant: small-caps;
     text-align: left;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
+
 
 hr.narrow {
     margin-top: 2em;

@@ -5,7 +5,7 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
     <meta name="dtb:uid" content="urn:uuid:68b79009-ead4-4e9e-b187-6b242841d40f"/>
-    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:depth" content="2"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
@@ -36,18 +36,78 @@
         <text>Título I</text>
       </navLabel>
       <content src="Text/titulo-1.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Art. 1</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Art. 2</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Art. 3</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Art. 4</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Art. 5</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Art. 6</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Art. 7</text>
+        </navLabel>
+        <content src="Text/titulo-1.xhtml#sigil_toc_id_7"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-12" playOrder="12">
       <navLabel>
         <text>Título II</text>
       </navLabel>
       <content src="Text/titulo-2.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-6" playOrder="6">
+    <navPoint id="navPoint-13" playOrder="13">
       <navLabel>
         <text>Título III</text>
       </navLabel>
       <content src="Text/titulo-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Título IV</text>
+      </navLabel>
+      <content src="Text/titulo-4.xhtml"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Sección primera. De los derechos individuales</text>
+        </navLabel>
+        <content src="Text/titulo-4.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Sección segunda. De las garantías constitucionales</text>
+        </navLabel>
+        <content src="Text/titulo-4.xhtml#sigil_toc_id_9"/>
+      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
