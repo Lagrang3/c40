@@ -18,6 +18,7 @@
     <item href="Text/creditos.xhtml" id="creditos.xhtml" media-type="application/xhtml+xml"/>
     <item href="Images/cc-88x31.png" id="cc-88x31.png" media-type="image/png"/>
     <item href="Text/titulo-2.xhtml" id="titulo-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titulo-3.xhtml" id="titulo-3.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -26,5 +27,6 @@
     <itemref idref="preface.xhtml"/>
     <itemref idref="titulo-1.xhtml"/>
     <itemref idref="titulo-2.xhtml"/>
+    <itemref idref="titulo-3.xhtml"/>
   </spine>
 </package>
